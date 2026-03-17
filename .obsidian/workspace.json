@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "5770a464d57cecf2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ef819d221fcf586",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fd569893a7d5abd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Procesos_BDD/EJECUCION DE SCRIPTS SEMANALES.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EJECUCION DE SCRIPTS SEMANALES"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7239bdd4f5a1cff4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b32367cf01aef260",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a852fa707fa159f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "01fd4840120e0e91",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d3533578ca09772c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "23ef3228d354f204",
+    "type": "split",
+    "children": [
+      {
+        "id": "49cdabdf715605db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eae76c96ed7249a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Procesos_BDD/EJECUCION DE SCRIPTS SEMANALES.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for EJECUCION DE SCRIPTS SEMANALES"
+            }
+          },
+          {
+            "id": "37d966001112e211",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Procesos_BDD/EJECUCION DE SCRIPTS SEMANALES.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from EJECUCION DE SCRIPTS SEMANALES"
+            }
+          },
+          {
+            "id": "e1054d28969c7ba9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "830a6f622eb2bddb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6c79aa2e77ef3e17",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Procesos_BDD/EJECUCION DE SCRIPTS SEMANALES.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of EJECUCION DE SCRIPTS SEMANALES"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "9fd569893a7d5abd",
+  "lastOpenFiles": [
+    "Procesos_BDD/DOCUMENTACION PARA MIGRACION DE GRUPOS.md",
+    "Procesos_BDD/EJECUCION DE SCRIPTS SEMANALES.md"
+  ]
+}
